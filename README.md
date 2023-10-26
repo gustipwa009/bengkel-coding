@@ -1,7 +1,6 @@
 # Studi-kasus-Todolist #
 ---------------------------
 
-Super-admin
 user : admin@bug.com
 pass : b123
 
